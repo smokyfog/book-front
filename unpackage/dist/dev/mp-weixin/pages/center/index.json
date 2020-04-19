@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "uView-center",
+  "usingComponents": {
+    "u-link": "/uview/components/u-link/u-link"
+  }
+}

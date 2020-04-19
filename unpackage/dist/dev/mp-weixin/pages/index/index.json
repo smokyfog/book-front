@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "uView-index",
+  "usingComponents": {
+    "home-page": "/pages/index/home-page"
+  }
+}
